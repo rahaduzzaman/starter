@@ -14,7 +14,7 @@ then run the folloing commands accordingly
 
 $ git clone https://github.com/rahaduzzaman/starter
 
-#then open git bash in project directory
+#then open git bash in project directory and you can rename the project & run the commands
 
 $ npm install
 
