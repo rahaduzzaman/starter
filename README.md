@@ -14,6 +14,8 @@ then run the folloing commands accordingly
 
 $ git clone https://github.com/rahaduzzaman/starter
 
+#then open git bash in project directory
+
 $ npm install
 
 $ gulp
